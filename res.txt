@@ -1,0 +1,8 @@
+Writing files: https://gobyexample.com/writing-files
+
+Writing cli applications: https://www.youtube.com/watch?v=oeFrGpAjm8s&t=282s
+
+Cobra, CLI framework: https://github.com/spf13/cobra
+
+How to write fast, fun command-line applications with Golang - https://www.freecodecamp.org/news/writing-command-line-applications-in-go-2bc8c0ace79d/
+
