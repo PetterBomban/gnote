@@ -8,8 +8,13 @@ This will be a simple note-taking CLI app for learning Golang.
 * Read notes through the command line
 * Support for tags
 * Support for sub-notes
-* Password storage with encryption
-* ...
+* Password protect notes
+* Encrypt note storage
+* ..
+
+## Progress 
+
+* 
 
 ## License
 
